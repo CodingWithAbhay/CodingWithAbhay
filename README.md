@@ -1,6 +1,6 @@
 <!-- Hi there, I'm CodingWithAbhay! 👋 -->
 
-<h1 align="center">Hi, I'm Abhay 👋</h1>
+<h1 align="center">Hi, I'm Abhay Shaw 👋</h1>
 <p align="center">
   <strong>BTech Student | CSE (AIML) | Software Engineer Enthusiast </strong>
 </p>
